@@ -1,0 +1,122 @@
+body {
+  background-color: #FFE2B7;
+}
+.main {
+  background-color: #343B29;
+  width: 555px;
+  height: 1060px;
+  margin: 0 auto;
+}
+.photo {
+  background-color: #F5F5F5;
+  width: 260px;
+  clear:both;
+  float: left;
+  padding: 5px;
+  margin: 5px;
+  border-radius: 10px;
+}
+.kontakt {
+  background-color: #ADDFAD;
+  width: 260px;
+  clear:both;
+  float: left;
+  padding: 5px;
+  margin: 5px;
+  border-radius: 10px;
+}
+.langyage {
+  background-color: #ADDFAD;
+  width: 260px;
+  clear:both;
+  float: left;
+  padding: 5px;
+  margin: 5px;
+  border-radius: 10px;
+}
+.napr {
+  background-color: #ADDFAD;
+  width: 260px;
+  clear:both;
+  float: left;
+  padding: 5px;
+  margin: 5px;
+  border-radius: 10px;
+}
+.prof {
+  background-color: #ADDFAD;
+  width: 260px;
+  clear:both;
+  float: left;
+  padding: 5px;
+  margin: 5px;
+  border-radius: 10px;
+}
+.interes {
+  background-color: #ADDFAD;
+  width: 260px;
+  clear:both;
+  float: left;
+  padding: 5px;
+  margin: 5px;
+  border-radius: 10px;
+}
+.me {
+  background-color: #ADDFAD;
+  width: 260px;
+  display: flex;
+  flex-direction: column-reverse;
+  top: 1250px;
+  left: 740px;
+  padding: 5px;
+  margin: 5px;
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
+  height: 200px;
+}
+.obrazov {
+  background-color: #ADDFAD;
+  width: 260px;
+  display: flex;
+  flex-direction: column-reverse;
+  padding: 5px;
+  margin: 5px;
+  border-radius: 10px;
+  height: 300px;
+}
+.naviki {
+  background-color: #ADDFAD;
+  width: 260px;
+  height: 300px;
+  display: flex;
+  flex-direction: column-reverse;
+  padding: 5px;
+  margin: 5px;
+  border-radius: 10px;
+}
+.program {
+  background-color: #ADDFAD;
+  width: 260px;
+  height: 200px;
+  display: flex;
+  flex-direction: column-reverse;
+  padding: 5px;
+  margin: 5px;
+  border-radius: 10px;
+}
+h1 {font-size: 25px;
+  font-weight: lighter;
+  color: #013220; 
+  font-family: Verdana, "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+ul {
+  font-size: 16px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #013220;
+  list-style-type: circle;
+}
+p {
+  font-size: 16px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #013220;
+}
